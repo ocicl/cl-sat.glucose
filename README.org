@@ -1,0 +1,10 @@
+* cl-sat.glucose
+
+CL-SAT instance to Glucose state-of-the-art SAT solver. This downloads the later 2014 version (2nd in the 2014 SAT competition).
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cl-model-languages/cl-sat.glucose.git   |
+| commit  | bed0ad5  |
+| systems | cl-sat.glucose |
+|---------+-------------------------------------------|
+
